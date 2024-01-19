@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 3rem;
+  min-height: 20vh;
+}
+
+.header{
+  align-items: center;
+  border-radius: 50px;
+  padding: 7px 80px 150px;
+}
+
+.cardLeft {
+  justify-content: left;
+}
+
+div.cardRight {
+  justify-content: right;
+}
+
+
+
+
+
+
+
